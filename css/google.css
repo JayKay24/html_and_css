@@ -3,3 +3,15 @@ fieldset {
     padding: 0;
     border: none;
 }
+
+#Search, #Lucky {
+    display: block;
+    width: 10em;
+    height: 2em;
+    float: left;
+    background: #D3D3D3;
+    font-size: inherit;
+    border: 1px #D3D3D3;
+    border-radius: 4px;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, .5)
+}
