@@ -15,3 +15,40 @@ fieldset {
     border-radius: 4px;
     box-shadow: 2px 2px 3px rgba(0, 0, 0, .5)
 }
+
+#google_form {
+    padding: 10% 0;
+}
+
+#submits {
+    margin: auto;
+    width: 20%;
+    padding: 10px;
+}
+
+#google_text {
+    width: 40em;
+    height: 2em;
+    border: 1px solid #666;
+    font-family: Georgia, 'Times New Roman', Times, sans-serif;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, .5)
+}
+
+#left {
+    list-style-type: none;
+    margin-right: 10px;
+    float: left;
+}
+
+#right {
+    list-style-type: none;
+    margin: 10px;
+    float: right;
+}
+
+#signin {
+    background-color: #008CBA;
+    color: white;
+    border-radius: 4px;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, .5)
+}
