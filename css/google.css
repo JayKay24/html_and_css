@@ -87,3 +87,32 @@ fieldset {
     padding: 1px;
     width: 50%;
 }
+
+img.displayed {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #D3D3D3;
+    position: absolute;
+    bottom: 0;
+    width: 99%;
+}
+
+a {
+    font-family: sans-serif;
+    color: black;
+}
